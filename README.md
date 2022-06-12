@@ -6,8 +6,20 @@
 * npm install
 * npm install --legacy-peer-deps react react-dom office-ui-fabric-react @fluentui/react
 * npm install --legacy-peer-deps @types/react @types/react-dom --save-dev
+* code your component 
+* npm start 
+* npm run build 
+* mkdir Solutions
+* pac solution init --publisher-name Samples --publisher-prefix samples
+* pac solution add-reference --path path\to\main\directory
+* open developer command prompt for vscode 
+* msbuild /t:restore path\to\Solution\folder
+* msbuild path\to\Solution\folder
+* solution zip file is generated in the `Solution\bin\debug` folder
 
 Imp Links:
+
+[Creating first code component in ms power apps](https://docs.microsoft.com/en-us/power-apps/developer/component-framework/implementing-controls-using-typescript)
 
 [React typescript Form Example 1](https://medium.com/@sandupa.egodage/react-form-with-typescript-c74510b2f9d3)
 
