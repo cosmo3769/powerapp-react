@@ -7,7 +7,7 @@
 * npm install --legacy-peer-deps react react-dom office-ui-fabric-react @fluentui/react
 * npm install --legacy-peer-deps @types/react @types/react-dom --save-dev
 
-Imp Links
+Imp Links:
 
 [React typescript Form Example 1](https://medium.com/@sandupa.egodage/react-form-with-typescript-c74510b2f9d3)
 
