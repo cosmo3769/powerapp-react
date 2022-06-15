@@ -28,3 +28,5 @@ Imp Links:
 [MS Power Apps with react Example](https://powerapps.microsoft.com/es-es/blog/use-of-react-and-office-ui-fabric-react-in-the-powerapps-component-framework-is-now-available-for-public-preview/)
 
 [Fluent UI](https://developer.microsoft.com/en-us/fluentui#/controls/web/button)
+
+[Application Lifecycle Management](https://docs.microsoft.com/en-us/power-platform/alm/)
