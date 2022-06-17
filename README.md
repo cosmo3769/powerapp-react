@@ -1,4 +1,6 @@
-# powerapp-react
+# Integrate MS Power Apps with React
+
+## Local Testing Environment
 
 * mkdir MyReactComponent
 * cd MyReactComponent
@@ -9,6 +11,9 @@
 * code your component 
 * npm start 
 * npm run build 
+
+## Pug into Power Apps
+
 * mkdir Solutions
 * pac solution init --publisher-name Samples --publisher-prefix samples
 * pac solution add-reference --path path\to\main\directory
